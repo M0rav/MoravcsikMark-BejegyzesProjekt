@@ -1,6 +1,6 @@
 package hu.petrik.bejegyzesProjekt;
 
-public class Main {
+public class BejegyzesProject {
 
     public static void main(String[] args) {
 
